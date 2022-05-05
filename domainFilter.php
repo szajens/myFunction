@@ -10,7 +10,7 @@
          * @return array associates
          *
          *               if not found:
-         *    ['matches'] type (int) == 1
+         *    ['matches'] type (int) == 0
          *    [0] == empty array()
          *
          *               if checked:
