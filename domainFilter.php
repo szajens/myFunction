@@ -4,8 +4,8 @@
          * domainFilter() - szajens
          *
          *
-         * @param mixed $allowed_domain - allowed domain format ['example.net','subdomain.example.com'] , don't use http://
-         * @param mixed $domain_to_check - input domain to check e.g. www.www.www.www.a1.g.h.r.r.e.e.e.e.e.e.d.subdomain.example.com
+         * @param array $allowed_domain - allowed domain format ['example.net','subdomain.example.com'] , don't use http://
+         * @param string $domain_to_check - input domain to check e.g. www.www.www.www.a1.g.h.r.r.e.e.e.e.e.e.d.subdomain.example.com
          *
          * @return array associates
          *
